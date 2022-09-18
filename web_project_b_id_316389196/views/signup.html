@@ -2,28 +2,35 @@
 <html lang="en">
   <head>
     <script src="..//Static/Java.js" defer></script>
-    <title>Sign Up | By Code Info</title>
+    <title>Sign Up </title>
     <link rel="stylesheet" href="../Static/project.css" />
+
 
   </head>
   <body>
     <div class="box">
       <h1>Sign Up</h1>
       <form >
-        <label id="des">First Name</label>
-        <input type="text" id="FirstName" placeholder="" />
-        <label id="des">Last Name</label>
-        <input type="text" id="LastName" placeholder="" />
+        <div class="form-control">
+        <label id="des">User Name</label>
+        <input type="text" id="userName" placeholder=""  />
+        <br>
+         </div><br>
+         <div class="form-control">
         <label id="des">Email</label>
         <input type="email" id="email" placeholder="abc@def.com" />
+        <br><small>Error message</small>
+		</div><br>
+    <div class="form-control">
         <label id="des">Password</label>
-        
-          <input type="password" id="password" placeholder="" onInput="check()" />
-          <br>
+          <input type="password" id="password" placeholder=""  onInput="check()" />
+         <br> <small>Error message</small>
+        </div>
+          <br><br>
           
           <div class="set" >
             <div id="count">Length : 0
-                    <i id="see" onclick="see()" class="far fa-eye"></i>
+                    
             </div>
             <div id="check0">
               <i class="far fa-check-circle"></i>  <span> Length more than 8.</span>
@@ -36,7 +43,7 @@
             </div>
           </div>
           
-        <button class="button" type="button" onclick="window.location.href = 'search.html'" >Submit</button> 
+        <button class="button" id="move-on" type="button"  >Submit</button> 
       </form>
       <p class="para-2">
         Already have an account? <a href="login.html">Login here</a>

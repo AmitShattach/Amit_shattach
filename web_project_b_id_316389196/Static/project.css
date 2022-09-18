@@ -533,6 +533,25 @@ input[type="text"]:disabled {
   justify-content: center;
   
 }
+
+
+
+.form-control.success input{
+  border:2px solid rgb(26, 167, 26);
+}
+.form-control.error input{
+  border:2px solid rgb(228, 29, 22);
+}
+.form-control small{
+  position:absolute;
+  margin: 3px;
+  visibility: hidden;
+}
+
+
+
+
+
 @media only screen and (max-width: 800px){
   .Match-container{
     max-width: 600px;
