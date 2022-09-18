@@ -23,6 +23,14 @@
        <form>
         <label class="service" id="des">Service Type</label>
         <select required id="Type" name="City" >
+          <option value="">-- Select Service type --</option>
+          <option value="Faciel">Faciel</option>
+          <option value="Hair-Removel">Hair-Removel</option>
+          <option value="Nails">Nails</option>
+          <option value="Piling">Piling</option>
+      </select><br>
+        <label class="service" id="des">City</label>
+        <select required id="Type" name="City" class="form-control">
           <option value="">-- Select City --</option>
           <option value="Tel-Aviv">Tel-Aviv</option>
           <option value="Ramat-Gan">Ramat-Gan</option>
@@ -30,14 +38,6 @@
           <option value="Holon">Holon</option>
           <option value="Herzliya">Herzliya</option>
           <option value="Shoham">Shoham</option>
-      </select><br>
-        <label class="service" id="des">City</label>
-        <select required id="Type" name="City" class="form-control">
-          <option value="">-- Select City --</option>
-          <option value="Faciel">Faciel</option>
-          <option value="Hair-Removel">Hair-Removel</option>
-          <option value="Nails">Nails</option>
-          <option value="Piling">Piling</option>
       </select><br>
         <input type="checkbox" name="Location" id="Location" onclick="enableCreateUser(); GetLocation()">
         <label id="des" for="Location">Use Your Current Location</label>
