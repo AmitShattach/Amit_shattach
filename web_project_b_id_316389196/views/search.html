@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <title>Search </title>
+    <link rel="stylesheet" href="../Static/project.css" />
+    <script src="../static/GeoLocation.js"></script>
+    <script src="..//Static/Java.js" defer></script>
+  </head>
+  
+  <body>
+    <div class="containernav">
+      <nav>
+        <ul>
+          <li><a href="search.html">Home Page</a></li>
+          <li><a href="FirstPage.html">Log Out</a></li>
+        </ul>
+      </nav>
+    </div>
+    <script src="t .js"></script>
+    <h1>Search</h1>
+    <div class="box">
+       <form>
+        <label class="service" id="des">Service Type</label>
+        <select required id="Type" name="City" >
+          <option value="">-- Select City --</option>
+          <option value="Tel-Aviv">Tel-Aviv</option>
+          <option value="Ramat-Gan">Ramat-Gan</option>
+          <option value="Beer-sheva">Beer-sheva</option>
+          <option value="Holon">Holon</option>
+          <option value="Herzliya">Herzliya</option>
+          <option value="Shoham">Shoham</option>
+      </select><br>
+        <label class="service" id="des">City</label>
+        <select required id="Type" name="City" class="form-control">
+          <option value="">-- Select City --</option>
+          <option value="Faciel">Faciel</option>
+          <option value="Hair-Removel">Hair-Removel</option>
+          <option value="Nails">Nails</option>
+          <option value="Piling">Piling</option>
+      </select><br>
+        <input type="checkbox" name="Location" id="Location" onclick="enableCreateUser(); GetLocation()">
+        <label id="des" for="Location">Use Your Current Location</label>
+        <button class="button" type="button" onclick="window.location.href = 'Match.html'" value="" >Search</button>
+
+       
+      </form>
+    </div>
+    
+  </body>
+
+</html>
+
