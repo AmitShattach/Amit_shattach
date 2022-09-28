@@ -531,6 +531,8 @@ input[type="text"]:disabled {
   cursor: pointer;
   align-items: center;
   justify-content: center;
+  animation-name: new;
+  animation-duration: 4s;
   
 }
 
@@ -550,7 +552,10 @@ input[type="text"]:disabled {
 
 
 
-
+@keyframes new{
+  from {background-color: #ac3a79;}
+  to {background-color: #c492ad;}
+}
 
 @media only screen and (max-width: 800px){
   .Match-container{
