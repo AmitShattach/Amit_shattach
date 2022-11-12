@@ -1,0 +1,48 @@
+doctype html
+html
+    head
+        link(rel='stylesheet' href='../static/style.css')
+        script(src='../static/Java.js' defer='')
+    body 
+        form.createDataForm(action='/CreateCustomersTable' method='GET')
+            input.submit(type='submit' name='submit' value='Create Customers table')
+        form.createDataForm(action='/CreateBeuticsTable' method='GET')
+            input.submit(type='submit' name='submit' value='Create Beutics table')
+        form.createDataForm(action='/CreateServicePerBTable' method='GET')
+            input.submit(type='submit' name='submit' value='Create ServicePerB table')
+        form.createDataForm(action='/CreatecityTable' method='GET')
+            input.submit(type='submit' name='submit' value='Create city table')
+         form.createDataForm(action='/CreateSearchesTable' method='GET')
+            input.submit(type='submit' name='submit' value='Create Searches table')
+
+
+        form.insertDataForm(action='/InsertDataTobeutics' method='GET')
+            input.submit(type='submit' name='submit' value='Insert data to Beutics table')
+        form.insertDataForm(action='/InsertDataToServicePerB' method='GET')
+            input(type='submit' name='submit' value='Insert data to ServicePerB table')
+        form.insertDataForm(action='/InsertDataToCity' method='GET')
+            input(type='submit' name='submit' value='Insert data to City table')
+
+
+        form.ShowDataForm(action='/ShowTableCustomers' method='GET')
+            input(type='submit' name='submit' value='show customers table')
+        form.ShowDataForm(action='/ShowTableBeutics' method='GET')
+            input(type='submit' name='submit' value='show beutics table')
+        form.ShowDataForm(action='/ShowTableServicePerB' method='GET')
+            input(type='submit' name='submit' value='show ServicePerB table')
+        form.ShowDataForm(action='/ShowTablecity' method='GET')
+            input(type='submit' name='submit' value='show City table')
+        form.ShowDataForm(action='/ShowTablesearches' method='GET')
+            input(type='submit' name='submit' value='show Searches table')
+
+        form.deleteDataForm(action='/DropCustomersTable' method='GET')
+            input(type='submit' name='submit' value='drop customers table')
+        form.deleteDataForm(action='/DropBeuticsTable' method='GET')
+            input(type='submit' name='submit' value='drop beutics table')
+        form.deleteDataForm(action='/DropServicePerBTable' method='GET')
+            input(type='submit' name='submit' value='drop ServicePerB table')
+        form.deleteDataForm(action='/DropcityTable' method='GET')
+            input(type='submit' name='submit' value='drop City table')
+        form.deleteDataForm(action='/DropSearchesTable' method='GET')
+            input(type='submit' name='submit' value='drop Searches table')
+

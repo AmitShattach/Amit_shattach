@@ -1,0 +1,29 @@
+doctype html
+html
+    head
+        title login 
+        link(rel='stylesheet' href='../static/style.css')
+        script(src='../static/Java.js' defer='')
+    body
+        .box
+            h1  Login 
+            form.form(action='/login' method='post')
+                .form-control
+                    label#des Email
+                    input#email(type='email' name='email'  placeholder='' )
+                    br
+                    small Error message
+                    br
+                    label#des Password
+                    input#password(type='password' name='password' placeholder='' )
+                    br
+                    small Error message
+                    br
+                    br
+                    
+                    input.button(type='submit' name='submit' value='Submit')
+                p.para-2
+                        a(href='/Signup') SignUp 
+                       
+
+                    

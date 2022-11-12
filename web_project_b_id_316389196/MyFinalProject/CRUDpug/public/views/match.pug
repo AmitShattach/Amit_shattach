@@ -1,0 +1,42 @@
+doctype html
+html
+    head
+        title match 
+        link(rel='stylesheet' href='../static/style.css')
+        script(src='../static/Java.js' defer='')
+    body
+        #header
+          header
+            nav.nav
+                ul.nav-list
+                li.list-item
+                    a(href='/search') search
+                li.list-item
+                    a(href='/FirstPage') Log Out
+        .Match-container
+                input#one(type='radio' name='dot')
+                // in order to shift between pages
+                input#two(type='radio' name='dot')
+                .main-card 
+                  each n in pple
+                    // all cards
+                    .cards
+                  
+                        .card
+                            // one card
+                        
+                            .content
+                                .img
+                                    img(src= n.picture  alt='')
+                                .details
+                                    .name #{n.name}
+                                    .info #{n.ServiceName}
+                                    .info #{n.phoneNumber}
+                                    .info #{n.price}
+                                    br
+                        
+                                 
+                .btn
+                    label.active.one(for='one')
+                    label.two(for='two')
+                    

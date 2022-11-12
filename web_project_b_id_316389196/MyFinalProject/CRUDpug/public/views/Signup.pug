@@ -1,0 +1,28 @@
+doctype html
+html
+    head
+        meta(charset='UTF-8')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge')
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        title SignUp
+        link(rel='stylesheet' href='../static/style.css')
+        script(src='../static/Java.js' defer='')
+    body
+        .box
+            h1 Sign Up
+            form(action='/newCustomer' method='POST')
+                .form-control
+                    label#des Email
+                    input#email(type='email' name='email'  placeholder='' )
+                    br
+                    small Error message
+                    br
+                    label#des Password
+                    input#password(type='password' name='password' placeholder='' )
+                    br
+                    small Error message
+                    br
+                    br
+                    input.button(type='submit' name='submit' value='Submit')
+                    p.para-2
+                      a(href='/log') Login

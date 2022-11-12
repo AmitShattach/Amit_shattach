@@ -1,0 +1,41 @@
+doctype html
+html
+    head
+       
+        title Search
+        link(rel='stylesheet' href='../static/style.css')
+        script(src='../static/Java.js' defer='')
+
+       
+     
+      
+    body
+        h1 Search
+        .box
+            form(action="/Findservice" method="POST")
+                label#des.service Service Type
+                select#Type(required='' name='ServiceType')
+                    option(value='') -- Select Service type --
+                    option(value='Faciel') Faciel
+                    option(value='Hair-Removel') Hair-Removel
+                    option(value='Nails') Nails
+                    option(value='Piling') Piling
+
+                br
+                label#des.service City
+                select#Type.form-control(required='' name='City' value='')
+                    option(value='') -- Select City --
+                    option(value='Tel-Aviv') Tel-Aviv
+                    option(value='Beer-sheva') Beer-sheva
+                    option(value='Herzliya') Herzliya
+                    option(value='Shoham') Shoham
+                    option(value='rehovot') Rehovot 
+                    option(value='haifa') haifa   
+                br
+                input#Location(type='checkbox' name='Location' onclick='GetLocation(); enableCreateUser()')
+                label#des(for='Location') Use Your Current Location
+                input#lat(type="hidden" name="lat" value='')
+                input#long(type="hidden" name="blong" value='')
+                input#district(type="hidden" name="district" value='')
+                input.button(type='submit' name='submit' value='search')
+                

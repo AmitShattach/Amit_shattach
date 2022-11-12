@@ -1,0 +1,145 @@
+Bemail,name,city,district,phoneNumber,picture,lat,blong,ServiceName,price
+laure@gmail.com,laura,Tel-Aviv,Central District,521379944,../static/p1.png,32.109333,34.855499,Piling,550
+robberta@gmail.com,robberta,Beer-sheva,southern district,522379944,../static/p2.png,31.252973,34.791462,Piling,80
+paula@gmail.com,paula,ashdod,southern district,523379944,../static/p3.png,31.801447,34.643497,Nails,100
+dana@gmail.com,dana,Beer-sheva,southern district,524379944,../static/p4.png,31.252973,34.791462,Nails,250
+samanta@gmail.com,samanta,Herzliya,Central District,525379944,../static/p5.png,32.166313,34.843311,Piling,1000
+ariana@gmail.com,ariana,Tel-Aviv,Central District,525679944,../static/p6.png,32.109333,34.855499,Nails,120
+sharona@gmail.com,sharona,haifa,nothern district,527379944,../static/p7.png,32.794044,34.989571,Hair-Removel,60
+roni@gmail.com,roni,Herzliya,Central District,525389944,../static/p1.png,32.166313,34.843311,Faciel,400
+tal@gmail.com,tal,rehovot,Central District,529379944,../static/p2.png,31.894756,34.809322,Piling,400
+anat@gmail.com,anat,Beer-sheva,southern district,525310944,../static/p3.png,31.252973,34.791462,Hair-Removel,140
+danit@gmail.com,danit,Beer-sheva,southern district,521179944,../static/p4.png,31.252973,34.791462,Piling,85
+sharon@gmail.com,sharon,Beer-sheva,southern district,525379124,../static/p2.png,31.252973,34.791462,Faciel,320
+stav@gmail.com,stav,Beer-sheva,southern district,521379944,../static/p6.png,31.252973,34.791462,Hair-Removel,350
+yael@gmail.com,yael,shoham,Central District,525314944,../static/p7.png,31.9957581,34.9488403,Nails,150
+yuval@gmail.com,yuval,shoham,Central District,525379945,../static/p1.png,31.9957581,34.9488403,Hair-Removel,40
+ofir@gmail.com,ofir,Tel-Aviv,Central District,525379164,../static/p2.png,32.109333,34.855499,Faciel,450
+hadar@gmail.com,hadar,Tel-Aviv,Central District,525379944,../static/p3.png,32.109333,34.855499,Piling,800
+yarden@gmail.com,yarden,Tel-Aviv,Central District,521769944,../static/p4.png,32.109333,34.855499,Nails,100
+rachel@gmail.com,rachel,Tel-Aviv,Central District,525318944,../static/p5.png,32.109333,34.855499,Hair-Removel,120
+may@gmail.com,may,shoham,Central District,525379919,../static/p6.png,31.9957581,34.9488403,Faciel,180
+dafna@gmail.com,dafna,Herzliya,Central District,525379944,../static/p7.png,32.166313,34.843311,Piling,650
+sveta@gmail.com,sveta,Herzliya,Central District,525379944,../static/p1.png,32.166313,34.843311,Nails,70
+ruth@gmail.com,ruth,Herzliya,Central District,525379944,../static/p2.png,32.166313,34.843311,Hair-Removel,130
+fabel@gmail.com,fabel,Herzliya,Central District,525379944,../static/p3.png,32.166313,34.843311,Faciel,500
+noa@gmail.com,noa,shoham,Central District,525379944,../static/p4.png,32.0166666,34.7666636,Piling,500
+koren@gmail.com,koren,Herzliya,Central District,525379944,../static/p5.png,32.0166666,34.7666636,Nails,120
+avia@gmail.com,avia,ashdod,southern district,525379944,../static/p5.png,31.801447,34.643497,Hair-Removel,90
+inbar@gmail.com,inbar,Beer-sheva,southern district,525379944,../static/p7.png,31.801447,34.643497,Faciel,450
+oria@gmail.com,oria,ashdod,southern district,525379944,../static/p1.png,31.801447,34.643497,Piling,120
+shir@gmail.com,shir,ashdod,southern district,525379944,../static/p2.png,31.801447,34.643497,Nails,130
+naama@gmail.com,naama,ashdod,southern district,525379944,../static/p2.png,31.801447,34.643497,Hair-Removel,95
+ofri@gmail.com,ofri,shoham,Central District,525379944,../static/p3.png,31.9957581,34.9488403,Faciel,350
+paz@gmail.com,paz,shoham,Central District,525379944,../static/p5.png,31.9957581,34.9488403,Piling,900
+sivan@gmail.com,sivan,shoham,Central District,525379944,../static/p2.png,31.9957581,34.9488403,Nails,180
+adi@gmail.com,adi,rehovot,Central District,525379944,../static/p7.png,31.894756,34.809322,Hair-Removel,75
+shira@gmail.com,shira,rehovot,Central District,525379944,../static/p1.png,31.894756,34.809322,Faciel,400
+mayyan@gmail.com,maayan,rehovot,Central District,525379944,../static/p2.png,31.894756,34.809322,Piling,1200
+moran@gmail.com,moran,rehovot,Central District,525379944,../static/p3.png,31.894756,34.809322,Nails,80
+keren@gmail.com,keren,rehovot,Central District,525379944,../static/p4.png,31.894756,34.809322,Hair-Removel,80
+yael@gmail.com,yael,shoham,Central District,525314944,../static/p5.png,32.0166666,34.7666636,Hair-Removel,220
+yuval@gmail.com,yuval,shoham,Central District,525379945,../static/p6.png,32.0166666,34.7666636,Faciel,550
+may@gmail.com,may,shoham,Central District,525379919,../static/p7.png,32.0166666,34.7666636,Faciel,80
+noa@gmail.com,noa,shoham,Central District,525379944,../static/p1.png,32.0166666,34.7666636,Hair-Removel,100
+ofri@gmail.com,ofri,shoham,Central District,525379944,../static/p2.png,32.794044,34.989571,Faciel,250
+paz@gmail.com,paz,shoham,Central District,525379944,../static/p3.png,32.794044,34.989571,Piling,1000
+gal@gmail.com,gal,haifa,nothern district,525379944,../static/p4.png,32.794044,34.989571,Nails,120
+yaela@gmail.com,yaela,haifa,nothern district,525379944,../static/p5.png,32.794044,34.989571,Hair-Removel,60
+shahar@gmail.com,shahar,haifa,nothern district,525379944,../static/p6.png,32.794044,34.989571,Faciel,400
+daniela@gmail.com,daniela,ashdod,southern district,525379944,../static/p3.png,31.801447,34.643497,Piling,150
+shany@gmail.com,shany,ashdod,southern district,525379944,../static/p1.png,31.801447,34.643497,Nails,180
+noy@gmail.com,noy,Beer-sheva,southern district,525379124,../static/p5.png,31.252973,34.791462,Faciel,420
+mirit@gmail.com,mirit,Beer-sheva,southern district,525379124,../static/p1.png,31.252973,34.791462,Faciel,400
+galita@gmail.com,galita,haifa,nothern district,525379944,../static/p6.png,32.794044,34.989571,Nails,150
+rotem@gmail.com,einav,haifa,nothern district,525379944,../static/p4.png,32.794044,34.989571,Piling,1200
+yam@gmail.com,yam,shoham,Central District,525379945,../static/p1.png,31.9957581,34.9488403,Hair-Removel,60
+noga@gmail.com,noga,shoham,Central District,525314944,../static/p7.png,31.9957581,34.9488403,Nails,150
+shaya@gmail.com,shaya,shoham,Central District,525379945,../static/p1.png,31.9957581,34.9488403,Hair-Removel,40
+norit@gmail.com,norit,shoham,Central District,525379919,../static/p6.png,31.9957581,34.9488403,Faciel,180
+anna@gmail.com,anna,shoham,Central District,525379944,../static/p4.png,32.0166666,34.7666636,Piling,500
+oramit@gmail.com,oranit,shoham,Central District,525379944,../static/p3.png,31.9957581,34.9488403,Faciel,350
+omri@gmail.com,omri,shoham,Central District,525379944,../static/p5.png,31.9957581,34.9488403,Piling,900
+michal@gmail.com,michal,shoham,Central District,525379944,../static/p2.png,31.9957581,34.9488403,Nails,180
+yanna@gmail.com,yanna,shoham,Central District,525379945,../static/p1.png,31.9957581,34.9488403,Hair-Removel,60
+ronel@gmail.com,ronel,shoham,Central District,525314944,../static/p7.png,31.9957581,34.9488403,Nails,150
+amita@gmail.com,amita,shoham,Central District,525379945,../static/p1.png,31.9957581,34.9488403,Hair-Removel,40
+mai@gmail.com,mai,shoham,Central District,525379919,../static/p6.png,31.9957581,34.9488403,Faciel,180
+noal@gmail.com,noal,shoham,Central District,525379944,../static/p4.png,32.0166666,34.7666636,Piling,500
+tamar@gmail.com,tamar,shoham,Central District,525379944,../static/p3.png,31.9957581,34.9488403,Faciel,350
+ruti@gmail.com,ruti,shoham,Central District,525379944,../static/p5.png,31.9957581,34.9488403,Piling,900
+hila@gmail.com,hila,shoham,Central District,525379944,../static/p2.png,31.9957581,34.9488403,Nails,180
+yamit@gmail.com,yamit,shoham,Central District,525379945,../static/p1.png,31.9957581,34.9488403,Hair-Removel,60
+ella@gmail.com,ella,Tel-Aviv,Central District,521379944,../static/p1.png,32.109333,34.855499,Piling,550
+ari@gmail.com,ari ,Tel-Aviv,Central District,525679944,../static/p6.png,32.109333,34.855499,Nails,120
+omer@gmail.com,omer,Tel-Aviv,Central District,525379164,../static/p2.png,32.109333,34.855499,Faciel,450
+sapir@gmail.com,sapir,Tel-Aviv,Central District,525379944,../static/p3.png,32.109333,34.855499,Piling,800
+meirav@gmail.com,meirav,Tel-Aviv,Central District,521769944,../static/p4.png,32.109333,34.855499,Nails,100
+renana@gmail.com,renana,Tel-Aviv,Central District,525318944,../static/p5.png,32.109333,34.855499,Hair-Removel,120
+bar@gmail.com,bar,Tel-Aviv,Central District,525379944,../static/p7.png,32.0166666,34.7666636,Faciel,80
+ron@gmail.com,ron,Tel-Aviv,Central District,525379944,../static/p1.png,32.0166666,34.7666636,Hair-Removel,100
+shanny@gmail.com,shanny,Tel-Aviv,Central District,521379944,../static/p1.png,32.109333,34.855499,Piling,550
+noam@gmail.com,noam,Tel-Aviv,Central District,525679944,../static/p6.png,32.109333,34.855499,Nails,120
+or@gmail.com,or,Tel-Aviv,Central District,525379164,../static/p2.png,32.109333,34.855499,Faciel,450
+shaharit@gmail.com,shaharit,Tel-Aviv,Central District,525379944,../static/p3.png,32.109333,34.855499,Piling,800
+anita@gmail.com,anita,Tel-Aviv,Central District,521769944,../static/p4.png,32.109333,34.855499,Nails,100
+racheli@gmail.com,racheli,Tel-Aviv,Central District,525318944,../static/p5.png,32.109333,34.855499,Hair-Removel,120
+neria@gmail.com,neria,Tel-Aviv,Central District,525379944,../static/p7.png,32.0166666,34.7666636,Faciel,80
+hagara@gmail.com,hagara,Tel-Aviv,Central District,525379944,../static/p1.png,32.0166666,34.7666636,Hair-Removel,100
+talya@gmail.com,talya,rehovot,Central District,529379944,../static/p2.png,31.894756,34.809322,Piling,400
+adaya@gmail.com,adaya,rehovot,Central District,525379944,../static/p7.png,31.894756,34.809322,Hair-Removel,75
+shiri@gmail.com,shiri,rehovot,Central District,525379944,../static/p1.png,31.894756,34.809322,Faciel,400
+nofar@gmail.com,nofar,rehovot,Central District,525379944,../static/p2.png,31.894756,34.809322,Piling,1200
+mor@gmail.com,mor,rehovot,Central District,525379944,../static/p3.png,31.894756,34.809322,Nails,80
+shontal@gmail.com,shontal,rehovot,Central District,525379944,../static/p4.png,31.894756,34.809322,Hair-Removel,80
+coral@gmail.com,coral,rehovot,Central District,525379944,../static/p6.png,32.0166666,34.7666636,Faciel,550
+mazal@gmail.com,mazal,rehovot,Central District,529379944,../static/p2.png,31.894756,34.809322,Piling,400
+hagit@gmail.com,adi,rehovot,Central District,525379944,../static/p7.png,31.894756,34.809322,Hair-Removel,75
+shlomit@gmail.com,shlomit,rehovot,Central District,525379944,../static/p1.png,31.894756,34.809322,Faciel,400
+nira@gmail.com,nira,rehovot,Central District,525379944,../static/p2.png,31.894756,34.809322,Piling,1200
+moran@gmail.com,moran,rehovot,Central District,525379944,../static/p3.png,31.894756,34.809322,Nails,80
+keren@gmail.com,keren,rehovot,Central District,525379944,../static/p4.png,31.894756,34.809322,Hair-Removel,80
+kinneret@gmail.com,kinneret,rehovot,Central District,525379944,../static/p6.png,32.0166666,34.7666636,Faciel,550
+keren@gmail.com,keren,rehovot,Central District,525379944,../static/p4.png,32.166313,34.843311,Piling,1000
+kinneret@gmail.com,kinneret,rehovot,Central District,525379944,../static/p6.png,32.166313,34.843311,Faciel,400
+talya@gmail.com,talya,rehovot,Central District,529379944,../static/p2.png,32.166313,34.843311,Piling,650
+adaya@gmail.com,adaya,rehovot,Central District,525379944,../static/p7.png,32.166313,34.843311,Nails,70
+shiri@gmail.com,shiri,rehovot,Central District,525379944,../static/p1.png,32.166313,34.843311,Hair-Removel,130
+nofar@gmail.com,nofar,rehovot,Central District,525379944,../static/p2.png,32.166313,34.843311,Faciel,500
+mor@gmail.com,mor,rehovot,Central District,525379944,../static/p3.png,32.0166666,34.7666636,Nails,120
+shontal@gmail.com,shontal,rehovot,Central District,525379944,../static/p4.png,32.0166666,34.7666636,Hair-Removel,220
+,,,,,,32.166313,34.843311,Piling,1000
+,,,,,,32.166313,34.843311,Faciel,400
+,,,,,,32.166313,34.843311,Piling,650
+,,,,,,32.166313,34.843311,Nails,70
+,,,,,,32.166313,34.843311,Hair-Removel,130
+,,,,,,32.166313,34.843311,Faciel,500
+,,,,,,32.0166666,34.7666636,Nails,120
+,,,,,,32.0166666,34.7666636,Hair-Removel,220
+kinneret@gmail.com,kinneret,rehovot,Central District,525379944,../static/p6.png,32.166313,34.843311,Piling,1000
+talya@gmail.com,talya,rehovot,Central District,529379944,../static/p2.png,32.166313,34.843311,Faciel,400
+adaya@gmail.com,adaya,rehovot,Central District,525379944,../static/p7.png,32.166313,34.843311,Piling,650
+shiri@gmail.com,shiri,rehovot,Central District,525379944,../static/p1.png,32.166313,34.843311,Nails,70
+nofar@gmail.com,nofar,rehovot,Central District,525379944,../static/p2.png,32.166313,34.843311,Hair-Removel,130
+mor@gmail.com,mor,rehovot,Central District,525379944,../static/p3.png,32.166313,34.843311,Faciel,500
+shontal@gmail.com,shontal,rehovot,Central District,525379944,../static/p4.png,32.0166666,34.7666636,Nails,120
+coral@gmail.com,coral,rehovot,Central District,525379944,../static/p6.png,32.0166666,34.7666636,Hair-Removel,220
+mazal@gmail.com,mazal,rehovot,Central District,529379944,../static/p2.png,32.166313,34.843311,Piling,1000
+hagit@gmail.com,adi,rehovot,Central District,525379944,../static/p7.png,32.166313,34.843311,Faciel,400
+shlomit@gmail.com,shlomit,rehovot,Central District,525379944,../static/p1.png,32.166313,34.843311,Piling,650
+sveta@gmail.com,sveta,Herzliya,Central District,525379944,../static/p1.png,32.166313,34.843311,Nails,70
+ruth@gmail.com,ruth,Herzliya,Central District,525379944,../static/p2.png,32.166313,34.843311,Hair-Removel,130
+fabel@gmail.com,fabel,Herzliya,Central District,525379944,../static/p3.png,32.166313,34.843311,Faciel,500
+koren@gmail.com,koren,Herzliya,Central District,525379944,../static/p5.png,32.0166666,34.7666636,Nails,120
+reut@gmail.com,reut,Herzliya,Central District,525379944,../static/p5.png,32.0166666,34.7666636,Hair-Removel,220
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,20 @@
+doctype html
+html
+    head
+        title Landing Page
+        link(rel='stylesheet' href='../static/style.css')
+        //script(src='../static/Java.js' defer='')
+    body
+        .welcome
+            .welcome-content
+                h3 GLAM Is A Click Away
+                    p
+                        | GLAM is an innovative and one of a kind site that ranks professionals in the field cosmetics.
+                        br
+                        |                  We are here to raise the quality standard in the field of care and beauty!
+                .first
+                    form(action='/Signup' method='get')
+                       input.button(type='submit' name='submit' value='sign up')
+                    form(action='/log' method='get')
+                       input.button(type='submit' name='submit' value='log in')
+                    
